@@ -12,12 +12,13 @@ With a strong passion for mathematics, I enjoy exploring new tools and technolog
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, R , Java🐍📊
+- **Programming Languages:** Python, R , Vanilla Java 🐍📊☕
 - **Data Analysis:** Pandas, NumPy 📈
 - **Visualization:** Matplotlib, Seaborn, Plotly 📊📉
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras 🤖
 - **Tools:** Jupyter Notebook, Git, SQL 💻🛠️
 - **Mathematics:** Linear Algebra, Calculus, Statistics, Probability ➕➗📐
+- **Languages:** English, Spanish
 
 ## 🌱 Currently Learning
 
@@ -55,12 +56,13 @@ Con una fuerte pasión por las matemáticas, disfruto explorando nuevas herramie
 
 ## 🛠️ Habilidades
 
-- **Lenguajes de Programación:** Python, R, Java 🐍📊
+- **Lenguajes de Programación:** Python, R, Java Vanila 🐍📊
 - **Análisis de Datos:** Pandas, NumPy 📈
 - **Visualización:** Matplotlib, Seaborn, Plotly 📊📉
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras 🤖
 - **Herramientas:** Jupyter Notebook, Git, SQL 💻🛠️
 - **Matemáticas:** Álgebra Lineal, Cálculo, Estadística, Probabilidad ➕➗📐
+- **Idiomas:** Inglés, Español
 
 ## 🌱 En Proceso de Aprendizaje
 
