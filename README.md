@@ -2,9 +2,17 @@
 
 I am an aspiring Data Scientist with a passion for discovering valuable insights from data and applying machine learning techniques to solve complex problems. Currently, I am honing my skills in data analysis, visualization, and predictive modeling.
 
+## 📜 Biography
+
+My journey into data science has been largely self-taught, driven by a deep curiosity and a desire to harness the power of data. Previously, I worked as a systems administrator and software engineer, which gave me a solid foundation in technology and problem-solving.
+
+I have completed numerous online courses from platforms such as edX, Udemy, and Coursera, covering topics from basic programming to advanced machine learning and deep learning. In addition to online courses, I have studied influential books like "Introduction to Statistical Learning" (ISL), "The Elements of Statistical Learning" (ESL), and "Pattern Recognition and Machine Learning."
+
+With a strong passion for mathematics, I enjoy exploring new tools and technologies, reading about the latest advancements in data science, and contributing to open-source projects. My goal is to continuously improve my skills and contribute to innovative projects that make a difference.
+
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, R 🐍📊
+- **Programming Languages:** Python, R , Java🐍📊
 - **Data Analysis:** Pandas, NumPy 📈
 - **Visualization:** Matplotlib, Seaborn, Plotly 📊📉
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras 🤖
@@ -37,9 +45,17 @@ I am currently diving deeper into:
 
 Soy un entusiasta de la ciencia de datos en desarrollo, con pasión por descubrir información a partir de datos y aplicar técnicas de machine learning para resolver problemas complejos. Actualmente, estoy mejorando mis habilidades en análisis de datos, visualización y modelado predictivo.
 
+## 📜 Biografía
+
+Mi camino en la ciencia de datos ha sido en gran medida autodidacta, impulsado por una profunda curiosidad y un deseo de aprovechar el poder de los datos. Anteriormente, trabajé como administrador de sistemas y ingeniero de software, lo que me dio una base sólida en tecnología y resolución de problemas.
+
+He completado numerosos cursos en línea en plataformas como edX, Udemy y Coursera, cubriendo temas desde programación básica hasta machine learning avanzado y deep learning. Además de los cursos en línea, he estudiado libros influyentes como "Introduction to Statistical Learning" (ISL), "The Elements of Statistical Learning" (ESL) y "Pattern Recognition and Machine Learning."
+
+Con una fuerte pasión por las matemáticas, disfruto explorando nuevas herramientas y tecnologías, leyendo sobre los últimos avances en ciencia de datos y contribuyendo a proyectos de código abierto. Mi objetivo es mejorar continuamente mis habilidades y contribuir a proyectos innovadores que marquen la diferencia.
+
 ## 🛠️ Habilidades
 
-- **Lenguajes de Programación:** Python, R 🐍📊
+- **Lenguajes de Programación:** Python, R, Java 🐍📊
 - **Análisis de Datos:** Pandas, NumPy 📈
 - **Visualización:** Matplotlib, Seaborn, Plotly 📊📉
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras 🤖
@@ -65,4 +81,3 @@ Actualmente, estoy profundizando en:
 - Continuar aprendiendo y creciendo profesionalmente en el campo de la ciencia de datos 📚
 
 **¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y conectarte conmigo.** 😊
-
