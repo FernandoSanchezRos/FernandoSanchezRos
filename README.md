@@ -1,85 +1,89 @@
-# Hello! I'm Fernando Sánchez Ros 👋
+# 👋 Fernando Sánchez Ros – Ingeniero de Datos Junior
 
-I am an aspiring Data Scientist with a passion for discovering valuable insights from data and applying machine learning techniques to solve complex problems. Currently, I am honing my skills in data analysis, visualization, and predictive modeling.
-
-## 📜 Biography
-
-My journey into data science has been largely self-taught, driven by a deep curiosity and a desire to harness the power of data. Previously, I worked as a systems administrator and software engineer, which gave me a solid foundation in technology and problem-solving.
-
-I have completed numerous online courses from platforms such as edX, Udemy, and Coursera, covering topics from basic programming to advanced machine learning and deep learning. In addition to online courses, I have studied influential books like "Introduction to Statistical Learning" (ISL), "The Elements of Statistical Learning" (ESL), and "Pattern Recognition and Machine Learning."
-
-With a strong passion for mathematics, I enjoy exploring new tools and technologies, reading about the latest advancements in data science, and contributing to open-source projects. My goal is to continuously improve my skills and contribute to innovative projects that make a difference.
-
-## 🛠️ Skills
-
-- **Programming Languages:** Python, R , Vanilla Java 🐍📊☕
-- **Data Analysis:** Pandas, NumPy 📈
-- **Visualization:** Matplotlib, Seaborn, Plotly 📊📉
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras 🤖
-- **Tools:** Jupyter Notebook, Git, SQL 💻🛠️
-- **Mathematics:** Linear Algebra, Calculus, Statistics, Probability ➕➗📐
-- **Languages:** English, Spanish
-
-## 🌱 Currently Learning
-
-I am currently diving deeper into:
-
-- **Deep Learning:** Neural Networks, CNNs, RNNs 🧠
-- **Big Data:** Apache Spark, AWS 🌐
-- **Model Deployment:** Docker, Flask, FastAPI 🚀
-
-## 📫 How to Reach Me
-
-- **Email:** sanchez.ros.fernando@gmail.com 📧
-
-## 🎯 Goals
-
-- Contribute to open source projects 🌍
-- Collaborate on interesting data science and machine learning projects 🤝
-- Continue learning and growing professionally in the field of data science 📚
-
-**Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊**
+Soy ingeniero de datos en formación con una sólida base en programación, sistemas distribuidos, algoritmos de machine learning y procesamiento de datos a gran escala. Apasionado por construir arquitecturas modernas que integran ingesta, transformación y análisis de datos mediante tecnologías como Apache Spark, Hive, Airflow, HDFS y Power BI. Actualmente estoy finalizando un Máster en Big Data & Data Science, con varios proyectos prácticos que simulan entornos reales de producción.
 
 ---
 
-# ¡Hola! Soy Fernando Sánchez Ros 👋
+## 📜 Sobre mí
 
-Soy un entusiasta de la ciencia de datos en desarrollo, con pasión por descubrir información a partir de datos y aplicar técnicas de machine learning para resolver problemas complejos. Actualmente, estoy mejorando mis habilidades en análisis de datos, visualización y modelado predictivo.
+- 🎓 Formación híbrida: background técnico como administrador de sistemas y desarrollador, complementado con estudios formales y autodidactas en ciencia e ingeniería de datos.
+- 📘 He estudiado obras clave como *The Elements of Statistical Learning*, *Pattern Recognition and Machine Learning*, y he realizado cursos especializados en ML, Deep Learning y Big Data. En el ámbito de la ingeniería de datos, destaco lecturas como *Designing Data-Intensive Applications* de Martin Kleppmann y *Streaming Systems* de Tyler Akidau, que me han permitido profundizar en arquitecturas distribuidas, consistencia, tolerancia a fallos y procesamiento en tiempo real.
+- 🔍 Me interesan especialmente el diseño de pipelines de datos escalables, la optimización del rendimiento en Spark, y la combinación de ingeniería de datos con ML aplicado.
 
-## 📜 Biografía
+---
 
-Mi camino en la ciencia de datos ha sido en gran medida autodidacta, impulsado por una profunda curiosidad y un deseo de aprovechar el poder de los datos. Anteriormente, trabajé como administrador de sistemas y ingeniero de software, lo que me dio una base sólida en tecnología y resolución de problemas.
+## ⚒️ Tecnologías que utilizo
 
-He completado numerosos cursos en línea en plataformas como edX, Udemy y Coursera, cubriendo temas desde programación básica hasta machine learning avanzado y deep learning. Además de los cursos en línea, he estudiado libros influyentes como "Introduction to Statistical Learning" (ISL), "The Elements of Statistical Learning" (ESL) y "Pattern Recognition and Machine Learning."
+**Procesamiento de datos**  
+`Apache Spark`, `Pandas`, `Dask`, `SQL`, `PL/pgSQL`
 
-Con una fuerte pasión por las matemáticas, disfruto explorando nuevas herramientas y tecnologías, leyendo sobre los últimos avances en ciencia de datos y contribuyendo a proyectos de código abierto. Mi objetivo es mejorar continuamente mis habilidades y contribuir a proyectos innovadores que marquen la diferencia.
+**Orquestación y automatización**  
+`Apache Airflow`, `cron`, `Python scripts`
 
-## 🛠️ Habilidades
+**Almacenamiento y consulta**  
+`HDFS`, `Apache Hive`, `PostgreSQL`, `AWS S3`, `AWS Athena`
 
-- **Lenguajes de Programación:** Python, R, Java Vanila 🐍📊
-- **Análisis de Datos:** Pandas, NumPy 📈
-- **Visualización:** Matplotlib, Seaborn, Plotly 📊📉
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras 🤖
-- **Herramientas:** Jupyter Notebook, Git, SQL 💻🛠️
-- **Matemáticas:** Álgebra Lineal, Cálculo, Estadística, Probabilidad ➕➗📐
-- **Idiomas:** Inglés, Español
+**Visualización de datos**  
+`Power BI`, `Dash`, `Plotly`
 
-## 🌱 En Proceso de Aprendizaje
+**Machine Learning**  
+`Scikit-learn`, `TensorFlow`, `Keras`  
+*Implementaciones propias desde cero en NumPy y SQL*
 
-Actualmente, estoy profundizando en:
+**DevOps / Infraestructura / Cloud**  
+`Docker`, `Docker Compose`, `Git`,  
+`AWS Glue`, `AWS EMR`, `AWS Lambda`
 
-- **Deep Learning:** Redes Neuronales, CNNs, RNNs 🧠
-- **Big Data:** Apache Spark, AWS 🌐
-- **Despliegue de Modelos:** Docker, Flask, FastAPI 🚀
+**Lenguajes**  
+`Python (avanzado)`, `SQL (avanzado)`, `PL/pgSQL`, `Java (básico)`, `Bash`
 
-## 📫 Cómo Contactarme
+---
 
-- **Correo Electrónico:** sanchez.ros.fernando@gmail.com 📧
+## 🧠 Conocimientos clave
+
+- Arquitecturas modernas: Lambda, Kappa, ETL vs ELT  
+- Modelado de datos: Data Warehouse, Data Lake, Staging Areas, SCD  
+- Optimización de consultas SQL, particionado, bucketing  
+- Paralelismo y procesamiento distribuido (RDD, DAG, Particiones)  
+- Versionado de datos y reproducibilidad  
+- Principios de MLOps: CI/CD para modelos, trazabilidad, métricas  
+- Gobernanza y calidad del dato: control de duplicados, reglas de validación, auditorías  
+- Seguridad en la nube: IAM, políticas en S3 y Glue  
+
+---
+
+## 📚 Actualmente trabajando en
+
+- **🛰️ TFM: Arquitectura lambda para análisis en tiempo real del espacio aéreo europeo**  
+  Desarrollo de una arquitectura moderna con datos de *OpenSky Network* para detectar patrones de congestión, trayectorias anómalas y predicción de tráfico. Incluye procesamiento batch con Spark y Airflow, y streaming simulado con Kafka + Flink. Visualización interactiva mediante Dash.
+
+- **🧪 Benchmark de tecnologías para limpieza y transformación de datos**  
+  Comparativa práctica entre `Pandas`, `Dask`, `Spark` y `SQL` usando datasets de distinto volumen (10K, 1M, 10M registros). Evalúa rendimiento, paralelización, legibilidad y consumo de recursos en tareas de limpieza, validación y enriquecimiento.
+
+- **🧠 Implementación de modelos de Machine Learning en SQL y PL/pgSQL**  
+  Proyecto enfocado en mostrar cómo encapsular modelos de regresión lineal múltiple directamente en PostgreSQL, sin librerías externas. Funciones reutilizables para entrenamiento, predicción, evaluación y análisis de residuos.
+
+- **⚙️ Pipeline modular de ML con integración CI/CD**  
+  Desarrollo de un pipeline automatizado y desacoplado para entrenamiento y despliegue de modelos en Docker. Incluye selección de modelos, validación cruzada, grid search y API de predicción mediante FastAPI, con tracking de experimentos vía MLflow.
+
+- **📈 Sistema de generación de KPIs a gran escala sobre Hive y Spark SQL**  
+  Automatización del cálculo de indicadores clave a partir de datos crudos en HDFS. Orquestación con Airflow, procesamiento con Spark SQL y almacenamiento en tablas externas de Hive para su posterior visualización en Power BI o Grafana.
+
+---
 
 ## 🎯 Objetivos
 
-- Contribuir a proyectos de código abierto 🌍
-- Colaborar en proyectos interesantes de ciencia de datos y machine learning 🤝
-- Continuar aprendiendo y creciendo profesionalmente en el campo de la ciencia de datos 📚
+- Aportar soluciones reales a problemas complejos de datos.
+- Participar en equipos que valoren la calidad técnica, la automatización y el aprendizaje continuo.
+- Seguir creciendo profesionalmente en roles de ingeniería de datos, sin perder de vista la conexión con modelos de machine learning aplicados.
 
-**¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y conectarte conmigo.** 😊
+---
+
+## 📬 Contacto
+
+- 📧 **Email:** sanchez.ros.fernando@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/fernando-sánchez-ros](https://www.linkedin.com/in/fernando-s%C3%A1nchez-ros-733573321/)
+
+---
+
+Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en contactarme! 🚀
